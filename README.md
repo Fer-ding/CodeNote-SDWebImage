@@ -1,4 +1,4 @@
-```
+```Objective-C
 // 初始化方法.
 // 1.获得一个SDImageCache的单例.2.获取一个SDWebImageDownloader的单例.3.新建一个MutableSet来存储下载失败的url.
 // 4.新建一个用来存储下载operation的可变数组.
